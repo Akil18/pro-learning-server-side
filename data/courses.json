@@ -1,26 +1,32 @@
 [
     {
         "id": 1,
-        "name": "JavaScript"
+        "name": "JavaScript",
+        "description": "JavaScript is a high-level programming language that is one of the core technologies of the World Wide Web. It is used as a client-side programming language by 97.8 percent of all websites. JavaScript was originally used only to develop web browsers, but they are now used for server-side website deployments and non-web browser applications as well. Javascript was created in 1995 and was initially known as LiveScript. However, Java was a very popular language at that time, so it was advertised as a “younger brother” of Java. As it evolved over time, JavaScript became a fully independent language. Nowadays, JavaScript is often confused with Java, and although there are some similarities between them, the two languages are distinct."
     },
     {
         "id": 2,
-        "name": "Python"
+        "name": "Python",
+        "description": "Python is a high-level programming language that is used for general-purpose programming. It is a popular language that is used for web development, data science, and software development. Python was created in 1991 by Guido van Rossum. It is an interpreted language, which means that it does not need to be compiled before it is executed. Python is a general-purpose language that can be used for a wide variety of applications. It is a popular language for data science and machine learning. It is also used for web development, software development, and game development. Python is a high-level language, which means that it is easy to read and write. It is also an object-oriented language, which means that it allows the programmer to create objects that have data and methods. Python is a dynamically typed language, which means that the type of a variable is determined at runtime. Python is a multi-paradigm language, which means that it supports multiple programming styles. It is a multi-paradigm language because it supports object-oriented programming, imperative programming, and functional programming."
     },
     {
         "id": 3,
-        "name": "Go"
+        "name": "Go",
+        "description": "Go is a programming language that was created by Google in 2007. It is a statically typed language that is compiled into machine code. Go is a general-purpose language that can be used for a wide variety of applications. It is a popular language for web development, software development, and game development. Go is a high-level language, which means that it is easy to read and write. It is also an object-oriented language, which means that it allows the programmer to create objects that have data and methods. Go is a statically typed language, which means that the type of a variable is determined at compile time. Go is a multi-paradigm language, which means that it supports multiple programming styles. It is a multi-paradigm language because it supports object-oriented programming, imperative programming, and functional programming."
     },
     {
         "id": 4,
-        "name": "Java"
+        "name": "Java",
+        "description": "Java is a high-level programming language that is used for general-purpose programming. It is a popular language that is used for web development, software development, and game development. Java was created in 1995 by James Gosling. It is a compiled language, which means that it needs to be compiled before it is executed. Java is a general-purpose language that can be used for a wide variety of applications. It is a popular language for web development, software development, and game development. Java is a high-level language, which means that it is easy to read and write. It is also an object-oriented language, which means that it allows the programmer to create objects that have data and methods. Java is a statically typed language, which means that the type of a variable is determined at compile time. Java is a multi-paradigm language, which means that it supports multiple programming styles. It is a multi-paradigm language because it supports object-oriented programming, imperative programming, and functional programming."
     },
     {
         "id": 5,
-        "name": "Kotlin"
+        "name": "Kotlin",
+        "description": "Kotlin is a programming language that was created by JetBrains in 2011. It is a statically typed language that is compiled into machine code. Kotlin is a general-purpose language that can be used for a wide variety of applications. It is a popular language for web development, software development, and game development. Kotlin is a high-level language, which means that it is easy to read and write. It is also an object-oriented language, which means that it allows the programmer to create objects that have data and methods. Kotlin is a statically typed language, which means that the type of a variable is determined at compile time. Kotlin is a multi-paradigm language, which means that it supports multiple programming styles. It is a multi-paradigm language because it supports object-oriented programming, imperative programming, and functional programming."
     },
     {
         "id": 6,
-        "name": "PHP"
+        "name": "PHP",
+        "description": "PHP is a high-level programming language that is used for general-purpose programming. It is a popular language that is used for web development, software development, and game development. PHP was created in 1995 by Rasmus Lerdorf. It is an interpreted language, which means that it does not need to be compiled before it is executed. PHP is a general-purpose language that can be used for a wide variety of applications. It is a popular language for web development, software development, and game development. PHP is a high-level language, which means that it is easy to read and write. It is also an object-oriented language, which means that it allows the programmer to create objects that have data and methods. PHP is a dynamically typed language, which means that the type of a variable is determined at runtime. PHP is a multi-paradigm language, which means that it supports multiple programming styles. It is a multi-paradigm language because it supports object-oriented programming, imperative programming, and functional programming."
     }
 ]
